@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: C:/Users/koben.mcclellan/Desktop/Koben-Jordan-Pong/Pong/Assets/Final Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
