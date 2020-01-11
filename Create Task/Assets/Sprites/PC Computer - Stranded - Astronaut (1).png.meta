@@ -1,0 +1,5803 @@
+fileFormatVersion: 2
+guid: 792146426b788eb4fa9f9e615284239c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5148368173131346579
+    second: PC Computer - Stranded - Astronaut (1)_0
+  - first:
+      213: 5594656092937755319
+    second: PC Computer - Stranded - Astronaut (1)_1
+  - first:
+      213: -196013170791128764
+    second: PC Computer - Stranded - Astronaut (1)_2
+  - first:
+      213: 2620444208574523500
+    second: PC Computer - Stranded - Astronaut (1)_3
+  - first:
+      213: -159153615082356784
+    second: PC Computer - Stranded - Astronaut (1)_4
+  - first:
+      213: -5734618698055930967
+    second: PC Computer - Stranded - Astronaut (1)_5
+  - first:
+      213: 1340269522093208727
+    second: PC Computer - Stranded - Astronaut (1)_6
+  - first:
+      213: 4846438803245228568
+    second: PC Computer - Stranded - Astronaut (1)_7
+  - first:
+      213: -1062721156717591881
+    second: PC Computer - Stranded - Astronaut (1)_8
+  - first:
+      213: 3800368444665496571
+    second: PC Computer - Stranded - Astronaut (1)_9
+  - first:
+      213: 4064556886278664866
+    second: PC Computer - Stranded - Astronaut (1)_10
+  - first:
+      213: 1024587680305838205
+    second: PC Computer - Stranded - Astronaut (1)_11
+  - first:
+      213: 7913853915934851858
+    second: PC Computer - Stranded - Astronaut (1)_12
+  - first:
+      213: 9152579957205478939
+    second: PC Computer - Stranded - Astronaut (1)_13
+  - first:
+      213: 8248738523613285178
+    second: PC Computer - Stranded - Astronaut (1)_14
+  - first:
+      213: -4935971885584257606
+    second: PC Computer - Stranded - Astronaut (1)_15
+  - first:
+      213: 3807685411598845374
+    second: PC Computer - Stranded - Astronaut (1)_16
+  - first:
+      213: -3709727116844116502
+    second: PC Computer - Stranded - Astronaut (1)_17
+  - first:
+      213: -2169537193137521633
+    second: PC Computer - Stranded - Astronaut (1)_18
+  - first:
+      213: -2293860893196018174
+    second: PC Computer - Stranded - Astronaut (1)_19
+  - first:
+      213: -1058693941293517225
+    second: PC Computer - Stranded - Astronaut (1)_20
+  - first:
+      213: -8918046089533224992
+    second: PC Computer - Stranded - Astronaut (1)_21
+  - first:
+      213: 3159948175557795330
+    second: PC Computer - Stranded - Astronaut (1)_22
+  - first:
+      213: 2615135176316922597
+    second: PC Computer - Stranded - Astronaut (1)_23
+  - first:
+      213: -3765469431164496874
+    second: PC Computer - Stranded - Astronaut (1)_24
+  - first:
+      213: -2381077102171438727
+    second: PC Computer - Stranded - Astronaut (1)_25
+  - first:
+      213: 719124822474235952
+    second: PC Computer - Stranded - Astronaut (1)_26
+  - first:
+      213: 7594492092294664486
+    second: PC Computer - Stranded - Astronaut (1)_27
+  - first:
+      213: -6301986471053397970
+    second: PC Computer - Stranded - Astronaut (1)_28
+  - first:
+      213: -3930805480539582717
+    second: PC Computer - Stranded - Astronaut (1)_29
+  - first:
+      213: -779447595767296870
+    second: PC Computer - Stranded - Astronaut (1)_30
+  - first:
+      213: 7665606570488949190
+    second: PC Computer - Stranded - Astronaut (1)_31
+  - first:
+      213: -544943934699714112
+    second: PC Computer - Stranded - Astronaut (1)_32
+  - first:
+      213: -4837936298398695453
+    second: PC Computer - Stranded - Astronaut (1)_33
+  - first:
+      213: 7763157750345401017
+    second: PC Computer - Stranded - Astronaut (1)_34
+  - first:
+      213: -5786598763342217291
+    second: PC Computer - Stranded - Astronaut (1)_35
+  - first:
+      213: -5161655837360173143
+    second: PC Computer - Stranded - Astronaut (1)_36
+  - first:
+      213: 4808554272795160766
+    second: PC Computer - Stranded - Astronaut (1)_37
+  - first:
+      213: -5384509741120490292
+    second: PC Computer - Stranded - Astronaut (1)_38
+  - first:
+      213: -2505983434368118848
+    second: PC Computer - Stranded - Astronaut (1)_39
+  - first:
+      213: -3099476593753320250
+    second: PC Computer - Stranded - Astronaut (1)_40
+  - first:
+      213: -3336049342996368973
+    second: PC Computer - Stranded - Astronaut (1)_41
+  - first:
+      213: 33852960937176076
+    second: PC Computer - Stranded - Astronaut (1)_42
+  - first:
+      213: -3328460281224262947
+    second: PC Computer - Stranded - Astronaut (1)_43
+  - first:
+      213: 1783462205589514461
+    second: PC Computer - Stranded - Astronaut (1)_44
+  - first:
+      213: 7678807043058929865
+    second: PC Computer - Stranded - Astronaut (1)_45
+  - first:
+      213: 1660479112705626987
+    second: PC Computer - Stranded - Astronaut (1)_46
+  - first:
+      213: 7812766540341054631
+    second: PC Computer - Stranded - Astronaut (1)_47
+  - first:
+      213: -497894894104519619
+    second: PC Computer - Stranded - Astronaut (1)_48
+  - first:
+      213: -7665146535587083404
+    second: PC Computer - Stranded - Astronaut (1)_49
+  - first:
+      213: -3605553928569467252
+    second: PC Computer - Stranded - Astronaut (1)_50
+  - first:
+      213: -5017304422865886022
+    second: PC Computer - Stranded - Astronaut (1)_51
+  - first:
+      213: 6911805502363591416
+    second: PC Computer - Stranded - Astronaut (1)_52
+  - first:
+      213: -6861972328832401566
+    second: PC Computer - Stranded - Astronaut (1)_53
+  - first:
+      213: 1613220807196964453
+    second: PC Computer - Stranded - Astronaut (1)_54
+  - first:
+      213: -8844015775059572131
+    second: PC Computer - Stranded - Astronaut (1)_55
+  - first:
+      213: -6745665464694315219
+    second: PC Computer - Stranded - Astronaut (1)_56
+  - first:
+      213: -1210096931897941919
+    second: PC Computer - Stranded - Astronaut (1)_57
+  - first:
+      213: 9174830384456997346
+    second: PC Computer - Stranded - Astronaut (1)_58
+  - first:
+      213: 8771251183843679458
+    second: PC Computer - Stranded - Astronaut (1)_59
+  - first:
+      213: -4750107176420834584
+    second: PC Computer - Stranded - Astronaut (1)_60
+  - first:
+      213: 2051691824592472746
+    second: PC Computer - Stranded - Astronaut (1)_61
+  - first:
+      213: 1916260812013172412
+    second: PC Computer - Stranded - Astronaut (1)_62
+  - first:
+      213: -8750227311046526386
+    second: PC Computer - Stranded - Astronaut (1)_63
+  - first:
+      213: 4661884903098577138
+    second: PC Computer - Stranded - Astronaut (1)_64
+  - first:
+      213: -5128908202926910494
+    second: PC Computer - Stranded - Astronaut (1)_65
+  - first:
+      213: -7505408890976707571
+    second: PC Computer - Stranded - Astronaut (1)_66
+  - first:
+      213: 5129002394666056872
+    second: PC Computer - Stranded - Astronaut (1)_67
+  - first:
+      213: 1744503027799446116
+    second: PC Computer - Stranded - Astronaut (1)_68
+  - first:
+      213: -8544710501984387445
+    second: PC Computer - Stranded - Astronaut (1)_69
+  - first:
+      213: -4331145624599123646
+    second: PC Computer - Stranded - Astronaut (1)_70
+  - first:
+      213: -4865779768790889049
+    second: PC Computer - Stranded - Astronaut (1)_71
+  - first:
+      213: 5542660841703432971
+    second: PC Computer - Stranded - Astronaut (1)_72
+  - first:
+      213: 7204204066978433000
+    second: PC Computer - Stranded - Astronaut (1)_73
+  - first:
+      213: -3406656436540142396
+    second: PC Computer - Stranded - Astronaut (1)_74
+  - first:
+      213: -995637736559703207
+    second: PC Computer - Stranded - Astronaut (1)_75
+  - first:
+      213: -6715724620546886880
+    second: PC Computer - Stranded - Astronaut (1)_76
+  - first:
+      213: 7540126668470439966
+    second: PC Computer - Stranded - Astronaut (1)_77
+  - first:
+      213: 4873280573488145151
+    second: PC Computer - Stranded - Astronaut (1)_78
+  - first:
+      213: -3121058935076261588
+    second: PC Computer - Stranded - Astronaut (1)_79
+  - first:
+      213: -6055925667598320937
+    second: PC Computer - Stranded - Astronaut (1)_80
+  - first:
+      213: -43932818354559917
+    second: PC Computer - Stranded - Astronaut (1)_81
+  - first:
+      213: -8629165431823232541
+    second: PC Computer - Stranded - Astronaut (1)_82
+  - first:
+      213: -7675778786123336906
+    second: PC Computer - Stranded - Astronaut (1)_83
+  - first:
+      213: 7117980585300730260
+    second: PC Computer - Stranded - Astronaut (1)_84
+  - first:
+      213: -1490245940206717386
+    second: PC Computer - Stranded - Astronaut (1)_85
+  - first:
+      213: -5230130252955948770
+    second: PC Computer - Stranded - Astronaut (1)_86
+  - first:
+      213: -5443029963356593656
+    second: PC Computer - Stranded - Astronaut (1)_87
+  - first:
+      213: 6283555520381799275
+    second: PC Computer - Stranded - Astronaut (1)_88
+  - first:
+      213: 7490870019491147689
+    second: PC Computer - Stranded - Astronaut (1)_89
+  - first:
+      213: -2498340386581536929
+    second: PC Computer - Stranded - Astronaut (1)_90
+  - first:
+      213: -2201933891434314205
+    second: PC Computer - Stranded - Astronaut (1)_91
+  - first:
+      213: 5316792514165270078
+    second: PC Computer - Stranded - Astronaut (1)_92
+  - first:
+      213: 1487953187665583336
+    second: PC Computer - Stranded - Astronaut (1)_93
+  - first:
+      213: -1339291155984451642
+    second: PC Computer - Stranded - Astronaut (1)_94
+  - first:
+      213: 4300551885576003560
+    second: PC Computer - Stranded - Astronaut (1)_95
+  - first:
+      213: 3660627483605483946
+    second: PC Computer - Stranded - Astronaut (1)_96
+  - first:
+      213: -900073015850537270
+    second: PC Computer - Stranded - Astronaut (1)_97
+  - first:
+      213: 5833239905681280940
+    second: PC Computer - Stranded - Astronaut (1)_98
+  - first:
+      213: 6107154331998311771
+    second: PC Computer - Stranded - Astronaut (1)_99
+  - first:
+      213: -8544393689193820270
+    second: PC Computer - Stranded - Astronaut (1)_100
+  - first:
+      213: -4278793508640759396
+    second: PC Computer - Stranded - Astronaut (1)_101
+  - first:
+      213: 3340247871982532704
+    second: PC Computer - Stranded - Astronaut (1)_102
+  - first:
+      213: -1917561648054055013
+    second: PC Computer - Stranded - Astronaut (1)_103
+  - first:
+      213: 1852038790291768471
+    second: PC Computer - Stranded - Astronaut (1)_104
+  - first:
+      213: 7485633225928022540
+    second: PC Computer - Stranded - Astronaut (1)_105
+  - first:
+      213: 2597044073891598927
+    second: PC Computer - Stranded - Astronaut (1)_106
+  - first:
+      213: 4154992143015254601
+    second: PC Computer - Stranded - Astronaut (1)_107
+  - first:
+      213: -1533774790813998941
+    second: PC Computer - Stranded - Astronaut (1)_108
+  - first:
+      213: 2958660672703583837
+    second: PC Computer - Stranded - Astronaut (1)_109
+  - first:
+      213: -6175250435445505301
+    second: PC Computer - Stranded - Astronaut (1)_110
+  - first:
+      213: -3263407751373491839
+    second: PC Computer - Stranded - Astronaut (1)_111
+  - first:
+      213: -2075706486972181905
+    second: PC Computer - Stranded - Astronaut (1)_112
+  - first:
+      213: 1990573352912674455
+    second: PC Computer - Stranded - Astronaut (1)_113
+  - first:
+      213: -4166701268272361281
+    second: PC Computer - Stranded - Astronaut (1)_114
+  - first:
+      213: -3837054715416345558
+    second: PC Computer - Stranded - Astronaut (1)_115
+  - first:
+      213: -7780105418020788586
+    second: PC Computer - Stranded - Astronaut (1)_116
+  - first:
+      213: 6396775095449081612
+    second: PC Computer - Stranded - Astronaut (1)_117
+  - first:
+      213: 1785788445402254518
+    second: PC Computer - Stranded - Astronaut (1)_118
+  - first:
+      213: 1826266681546941436
+    second: PC Computer - Stranded - Astronaut (1)_119
+  - first:
+      213: -3129463332310440422
+    second: PC Computer - Stranded - Astronaut (1)_120
+  - first:
+      213: -7655696506245963824
+    second: PC Computer - Stranded - Astronaut (1)_121
+  - first:
+      213: -2650176364249361665
+    second: PC Computer - Stranded - Astronaut (1)_122
+  - first:
+      213: -6531334146076587296
+    second: PC Computer - Stranded - Astronaut (1)_123
+  - first:
+      213: -1848763455833004056
+    second: PC Computer - Stranded - Astronaut (1)_124
+  - first:
+      213: -1045168520301257310
+    second: PC Computer - Stranded - Astronaut (1)_125
+  - first:
+      213: -9000194432722166410
+    second: PC Computer - Stranded - Astronaut (1)_126
+  - first:
+      213: 6159831318880450463
+    second: PC Computer - Stranded - Astronaut (1)_127
+  - first:
+      213: -1643795601835929608
+    second: PC Computer - Stranded - Astronaut (1)_128
+  - first:
+      213: 5832694701980758343
+    second: PC Computer - Stranded - Astronaut (1)_129
+  - first:
+      213: -8210780776075073226
+    second: PC Computer - Stranded - Astronaut (1)_130
+  - first:
+      213: 285252134020705515
+    second: PC Computer - Stranded - Astronaut (1)_131
+  - first:
+      213: -1657341041790875021
+    second: PC Computer - Stranded - Astronaut (1)_132
+  - first:
+      213: -477533348610890572
+    second: PC Computer - Stranded - Astronaut (1)_133
+  - first:
+      213: -4336778868757457064
+    second: PC Computer - Stranded - Astronaut (1)_134
+  - first:
+      213: -6853545418396667509
+    second: PC Computer - Stranded - Astronaut (1)_135
+  - first:
+      213: -5124100221785495385
+    second: PC Computer - Stranded - Astronaut (1)_136
+  - first:
+      213: 103384192476444997
+    second: PC Computer - Stranded - Astronaut (1)_137
+  - first:
+      213: 5523648583534062692
+    second: PC Computer - Stranded - Astronaut (1)_138
+  - first:
+      213: 6009806060730388250
+    second: PC Computer - Stranded - Astronaut (1)_139
+  - first:
+      213: -7999745483935917685
+    second: PC Computer - Stranded - Astronaut (1)_140
+  - first:
+      213: -178210211828481683
+    second: PC Computer - Stranded - Astronaut (1)_141
+  - first:
+      213: -79747819998999604
+    second: PC Computer - Stranded - Astronaut (1)_142
+  - first:
+      213: -6644683511013110367
+    second: PC Computer - Stranded - Astronaut (1)_143
+  - first:
+      213: -8423308713328973997
+    second: PC Computer - Stranded - Astronaut (1)_144
+  - first:
+      213: -4308556283539522103
+    second: PC Computer - Stranded - Astronaut (1)_145
+  - first:
+      213: -6444120821872601071
+    second: PC Computer - Stranded - Astronaut (1)_146
+  - first:
+      213: -355270485747301883
+    second: PC Computer - Stranded - Astronaut (1)_147
+  - first:
+      213: -1303032165871399280
+    second: PC Computer - Stranded - Astronaut (1)_148
+  - first:
+      213: 4694469233004479123
+    second: PC Computer - Stranded - Astronaut (1)_149
+  - first:
+      213: -6791420242373638892
+    second: PC Computer - Stranded - Astronaut (1)_150
+  - first:
+      213: -2067618490009424747
+    second: PC Computer - Stranded - Astronaut (1)_151
+  - first:
+      213: -3730221488220577093
+    second: PC Computer - Stranded - Astronaut (1)_152
+  - first:
+      213: -7697575089812957598
+    second: PC Computer - Stranded - Astronaut (1)_153
+  - first:
+      213: 5017299089094543114
+    second: PC Computer - Stranded - Astronaut (1)_154
+  - first:
+      213: 4918599391091460507
+    second: PC Computer - Stranded - Astronaut (1)_155
+  - first:
+      213: -7637592363966656784
+    second: PC Computer - Stranded - Astronaut (1)_156
+  - first:
+      213: 1117802350213776221
+    second: PC Computer - Stranded - Astronaut (1)_157
+  - first:
+      213: 6178519078599774802
+    second: PC Computer - Stranded - Astronaut (1)_158
+  - first:
+      213: 6325408895822783505
+    second: PC Computer - Stranded - Astronaut (1)_159
+  - first:
+      213: 7080639258647401015
+    second: PC Computer - Stranded - Astronaut (1)_160
+  - first:
+      213: -3030798626678332062
+    second: PC Computer - Stranded - Astronaut (1)_161
+  - first:
+      213: -7414228686536057076
+    second: PC Computer - Stranded - Astronaut (1)_162
+  - first:
+      213: 3173090106861579441
+    second: PC Computer - Stranded - Astronaut (1)_163
+  - first:
+      213: 4124496941046343450
+    second: PC Computer - Stranded - Astronaut (1)_164
+  - first:
+      213: -3472009717915097807
+    second: PC Computer - Stranded - Astronaut (1)_165
+  - first:
+      213: 1361906055608192481
+    second: PC Computer - Stranded - Astronaut (1)_166
+  - first:
+      213: -4781119432215362245
+    second: PC Computer - Stranded - Astronaut (1)_167
+  - first:
+      213: -8927734519562244404
+    second: PC Computer - Stranded - Astronaut (1)_168
+  - first:
+      213: 7190584164532425683
+    second: PC Computer - Stranded - Astronaut (1)_169
+  - first:
+      213: -2457354935012408365
+    second: PC Computer - Stranded - Astronaut (1)_170
+  - first:
+      213: 4434023968943615479
+    second: PC Computer - Stranded - Astronaut (1)_171
+  - first:
+      213: 8867464678315952458
+    second: PC Computer - Stranded - Astronaut (1)_172
+  - first:
+      213: -3506773774255110054
+    second: PC Computer - Stranded - Astronaut (1)_173
+  - first:
+      213: -1389509739179057713
+    second: PC Computer - Stranded - Astronaut (1)_174
+  - first:
+      213: 978643885118352984
+    second: PC Computer - Stranded - Astronaut (1)_175
+  - first:
+      213: -5223626842862230330
+    second: PC Computer - Stranded - Astronaut (1)_176
+  - first:
+      213: -7402726639221357406
+    second: PC Computer - Stranded - Astronaut (1)_177
+  - first:
+      213: 3176946243606140966
+    second: PC Computer - Stranded - Astronaut (1)_178
+  - first:
+      213: 6109506776451494727
+    second: PC Computer - Stranded - Astronaut (1)_179
+  - first:
+      213: 7867773163369774185
+    second: PC Computer - Stranded - Astronaut (1)_180
+  - first:
+      213: -5099582831874841104
+    second: PC Computer - Stranded - Astronaut (1)_181
+  - first:
+      213: 7358506519145958374
+    second: PC Computer - Stranded - Astronaut (1)_182
+  - first:
+      213: 8081117756004927287
+    second: PC Computer - Stranded - Astronaut (1)_183
+  - first:
+      213: -1244815796847595872
+    second: PC Computer - Stranded - Astronaut (1)_184
+  - first:
+      213: 2701517203146227727
+    second: PC Computer - Stranded - Astronaut (1)_185
+  - first:
+      213: -8669650161305168751
+    second: PC Computer - Stranded - Astronaut (1)_186
+  - first:
+      213: 4235975805350372333
+    second: PC Computer - Stranded - Astronaut (1)_187
+  - first:
+      213: -7445554412677618304
+    second: PC Computer - Stranded - Astronaut (1)_188
+  - first:
+      213: -3055716176915278785
+    second: PC Computer - Stranded - Astronaut (1)_189
+  - first:
+      213: 8255561997524384194
+    second: PC Computer - Stranded - Astronaut (1)_190
+  - first:
+      213: 4914675141716354922
+    second: PC Computer - Stranded - Astronaut (1)_191
+  - first:
+      213: 1637216478145709646
+    second: PC Computer - Stranded - Astronaut (1)_192
+  - first:
+      213: -1219898488538265959
+    second: PC Computer - Stranded - Astronaut (1)_193
+  - first:
+      213: -2788217440504051535
+    second: PC Computer - Stranded - Astronaut (1)_194
+  - first:
+      213: 8127685730371210394
+    second: PC Computer - Stranded - Astronaut (1)_195
+  - first:
+      213: 855885565931505593
+    second: PC Computer - Stranded - Astronaut (1)_196
+  - first:
+      213: 6874070500658388430
+    second: PC Computer - Stranded - Astronaut (1)_197
+  - first:
+      213: -3173256175972693508
+    second: PC Computer - Stranded - Astronaut (1)_198
+  - first:
+      213: -7042335151487487800
+    second: PC Computer - Stranded - Astronaut (1)_199
+  - first:
+      213: -8891902215813121733
+    second: PC Computer - Stranded - Astronaut (1)_200
+  - first:
+      213: 4345988591686983047
+    second: PC Computer - Stranded - Astronaut (1)_201
+  - first:
+      213: -4693378569934837578
+    second: PC Computer - Stranded - Astronaut (1)_202
+  - first:
+      213: -2047383871906490491
+    second: PC Computer - Stranded - Astronaut (1)_203
+  - first:
+      213: 4962322122920141561
+    second: PC Computer - Stranded - Astronaut (1)_204
+  - first:
+      213: 4274286133248890043
+    second: PC Computer - Stranded - Astronaut (1)_205
+  - first:
+      213: -8605119812218458720
+    second: PC Computer - Stranded - Astronaut (1)_206
+  - first:
+      213: -4753384940545334817
+    second: PC Computer - Stranded - Astronaut (1)_207
+  - first:
+      213: 830324390215331209
+    second: PC Computer - Stranded - Astronaut (1)_208
+  - first:
+      213: -6095575729278581592
+    second: PC Computer - Stranded - Astronaut (1)_209
+  - first:
+      213: 5131721284050506489
+    second: PC Computer - Stranded - Astronaut (1)_210
+  - first:
+      213: 6276820744940437744
+    second: PC Computer - Stranded - Astronaut (1)_211
+  - first:
+      213: -4204589200950661685
+    second: PC Computer - Stranded - Astronaut (1)_212
+  - first:
+      213: -1054807200163216015
+    second: PC Computer - Stranded - Astronaut (1)_213
+  - first:
+      213: -7632702328024060822
+    second: PC Computer - Stranded - Astronaut (1)_214
+  - first:
+      213: 3422661717206214837
+    second: PC Computer - Stranded - Astronaut (1)_215
+  - first:
+      213: 8194198321001281932
+    second: PC Computer - Stranded - Astronaut (1)_216
+  - first:
+      213: -4018917554978506147
+    second: PC Computer - Stranded - Astronaut (1)_217
+  - first:
+      213: -8426341203910942857
+    second: PC Computer - Stranded - Astronaut (1)_218
+  - first:
+      213: 2167560480242797720
+    second: PC Computer - Stranded - Astronaut (1)_219
+  - first:
+      213: 7716142401026171757
+    second: PC Computer - Stranded - Astronaut (1)_220
+  - first:
+      213: 4338107135503442703
+    second: PC Computer - Stranded - Astronaut (1)_221
+  - first:
+      213: -5774150088102658855
+    second: PC Computer - Stranded - Astronaut (1)_222
+  - first:
+      213: -4861829896365036367
+    second: PC Computer - Stranded - Astronaut (1)_223
+  - first:
+      213: -3302037637609596137
+    second: PC Computer - Stranded - Astronaut (1)_224
+  - first:
+      213: -6752215341794914667
+    second: PC Computer - Stranded - Astronaut (1)_225
+  - first:
+      213: -4521414967990150393
+    second: PC Computer - Stranded - Astronaut (1)_226
+  - first:
+      213: -3248906195189321692
+    second: PC Computer - Stranded - Astronaut (1)_227
+  - first:
+      213: -7159188367293696605
+    second: PC Computer - Stranded - Astronaut (1)_228
+  - first:
+      213: 1694844698008948087
+    second: PC Computer - Stranded - Astronaut (1)_229
+  - first:
+      213: -2723561126077750220
+    second: PC Computer - Stranded - Astronaut (1)_230
+  - first:
+      213: -3438341371890058989
+    second: PC Computer - Stranded - Astronaut (1)_231
+  - first:
+      213: -6271258053886180489
+    second: PC Computer - Stranded - Astronaut (1)_232
+  - first:
+      213: -8526525476967390878
+    second: PC Computer - Stranded - Astronaut (1)_233
+  - first:
+      213: 8213885979991796610
+    second: PC Computer - Stranded - Astronaut (1)_234
+  - first:
+      213: 3640895349915966948
+    second: PC Computer - Stranded - Astronaut (1)_235
+  - first:
+      213: -1629336812634592787
+    second: PC Computer - Stranded - Astronaut (1)_236
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8934348a18e1546a112b84e33aea75
+      internalID: -5148368173131346579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be16e2bdd43da7747b10e55dd6f71601
+      internalID: 5594656092937755319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ef68e8e023f72458b0cd2bf1949301
+      internalID: -196013170791128764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a40f2aeede651f43a0eb11c37aa7651
+      internalID: 2620444208574523500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42450a41395bd8844899c552aab44226
+      internalID: -159153615082356784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd3d5a2939cf4a45a0c18f4a50ab131
+      internalID: -5734618698055930967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e3898de89639c41a75940d560f24bd
+      internalID: 1340269522093208727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 342
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98193184952f3c14c8ae930cc7fd4ec7
+      internalID: 4846438803245228568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f340bf85579b5ec45b39f327b9338c86
+      internalID: -1062721156717591881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3489ed85fe89114f9890cce1c5715c8
+      internalID: 3800368444665496571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365ddf2b75d9cdb41a27c7e98ae75984
+      internalID: 4064556886278664866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bf2569230300345ab141c4e9bb1b2e
+      internalID: 1024587680305838205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2608b911ab2ef6243a4711a28d849f9f
+      internalID: 7913853915934851858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd86bb4e99fd2d34383c29322b44883c
+      internalID: 9152579957205478939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0e1b5b209db9f43b4c7d0f1f2499e0
+      internalID: 8248738523613285178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65513f6dd6970d4ead0161975fb5633
+      internalID: -4935971885584257606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413453034b9de334cbb174ba41d88e34
+      internalID: 3807685411598845374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_17
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 297
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab710c4182c98224ebe418c64b7affae
+      internalID: -3709727116844116502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af83f50925db92146b0f881567f3aaeb
+      internalID: -2169537193137521633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 327
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ba03b8b960b8d44a2e166104e9cf99
+      internalID: -2293860893196018174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a336f28d7d2e4b42b3e93738e127ccd
+      internalID: -1058693941293517225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67848f7f399cafb439c4552886ead70e
+      internalID: -8918046089533224992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67b7700e18a3ab4b84b4ff1c7dfba4e
+      internalID: 3159948175557795330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_23
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d02aa53791f00b42a5eb4b1c57617f1
+      internalID: 2615135176316922597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_24
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ca2038bd96d7845a544de45702548a
+      internalID: -3765469431164496874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b92769072fe67d4aaad8e2b17097a5b
+      internalID: -2381077102171438727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1608003094d8c4582784968980faf9
+      internalID: 719124822474235952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e42e863f3478c64ab32db907015ce7d
+      internalID: 7594492092294664486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_28
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cab919b5fa95d04d8cd9f5411489d87
+      internalID: -6301986471053397970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5478d9201b160945a3c9bc9bea41b19
+      internalID: -3930805480539582717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 327
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0728d639841c7b34f8a0f8ae90f56ff7
+      internalID: -779447595767296870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dabf0388cc2fe49970f72c20a79e62
+      internalID: 7665606570488949190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82153935eb253a24ead4bc2f809d2aae
+      internalID: -544943934699714112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb58ab156de05424e947aba51a0d0371
+      internalID: -4837936298398695453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85f08db840701b4d873d288d2100d6f
+      internalID: 7763157750345401017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 327
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aa0bc56a8685544a827b83739b61f5
+      internalID: -5786598763342217291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec3e4f5289e8f04c83432f5f2b877c8
+      internalID: -5161655837360173143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf7b90c38bf2134d895080349ab209c
+      internalID: 4808554272795160766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce84d391a8b4ae840936a0adb41c2e6e
+      internalID: -5384509741120490292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cda3146f92be284587ec2e95069383c
+      internalID: -2505983434368118848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_40
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2d6351f5bd2944897057b069ecd510
+      internalID: -3099476593753320250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b3cb9a665eb3448a07096060cc22eb
+      internalID: -3336049342996368973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_42
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 312
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0172d4639b479d4783c12b127dbad74
+      internalID: 33852960937176076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_43
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb6d692e1c18414aa72e7075aca5645
+      internalID: -3328460281224262947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_44
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac001a7adedb5744d8626596cefc1683
+      internalID: 1783462205589514461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_45
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6aa119fb4d90244acbeac42e1ffdb4
+      internalID: 7678807043058929865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_46
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f917510ad6355b447b228796fd09b334
+      internalID: 1660479112705626987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307365e7015e5b34c95a819e5ab794fb
+      internalID: 7812766540341054631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_48
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 312
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418ce6359401a4848a1e3426b685c3b6
+      internalID: -497894894104519619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_49
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad608fc703ce21418c3184c89fc7797
+      internalID: -7665146535587083404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_50
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59385e9d726d8aa46935632b12cee119
+      internalID: -3605553928569467252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_51
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05f8d876223c4e48a62bb43f84512fd
+      internalID: -5017304422865886022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 297
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3893b74b2e8484a9d2d7497dfc580c
+      internalID: 6911805502363591416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_53
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 297
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a337bcced94d03540853d93b0d859a68
+      internalID: -6861972328832401566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_54
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 297
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c3c4fdf2fdf5a43bde8ddc6edf6f84
+      internalID: 1613220807196964453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 297
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a919eba74eb68754083a4843eb076d9d
+      internalID: -8844015775059572131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c58f2b8b6c6f949ab5bf5dca2b32eb
+      internalID: -6745665464694315219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_57
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06de2f1a864f51b469e92675e843a64b
+      internalID: -1210096931897941919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_58
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0a9658b6b19144e8a72eca17b67102
+      internalID: 9174830384456997346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_59
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9281fcefcd2674c8e19493d4439b7c
+      internalID: 8771251183843679458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_60
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187ee4bfc06953f4cb747d3970a7b27c
+      internalID: -4750107176420834584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_61
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f756984ed8f53a4cae1bae54b15fb05
+      internalID: 2051691824592472746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_62
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a32def1112ec94a850835921a1120b
+      internalID: 1916260812013172412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_63
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d8bf0c0e81d8641a95211f0555cb4b
+      internalID: -8750227311046526386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_64
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb16fa39347f00842b3d7c760d71b9e3
+      internalID: 4661884903098577138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_65
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e62f5beec8afc2499b8b2d0da5a1ffc
+      internalID: -5128908202926910494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_66
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b949b63ebef6e7e42b164fd0b4f12895
+      internalID: -7505408890976707571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_67
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82ccb312fc8ee94c8a74cdf2f116bd6
+      internalID: 5129002394666056872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_68
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e68e2082d823143874f65e6e5a12ad
+      internalID: 1744503027799446116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_69
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090d65299f117f642b6cb2ffc41c6994
+      internalID: -8544710501984387445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_70
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa376eca164834980cbdf2de78b0ae
+      internalID: -4331145624599123646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_71
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebee6633eabc73e4f93883f1e5d7ee8d
+      internalID: -4865779768790889049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_72
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb206b766a3f494389b40eaf818f531
+      internalID: 5542660841703432971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_73
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9553b4922df71c342b3f05345caa7fbc
+      internalID: 7204204066978433000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_74
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6d403e22941cf44b7fc55e3ac4f006
+      internalID: -3406656436540142396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_75
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 261
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac5c5a56427fef439f2df7c2ca3891e
+      internalID: -995637736559703207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_76
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19977a2372397c64ba331baec930567a
+      internalID: -6715724620546886880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_77
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da63d807f0a8d845b01b7bdc38342aa
+      internalID: 7540126668470439966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_78
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2d976ff89900943baf572a8fee780e
+      internalID: 4873280573488145151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_79
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8714ff9f99323434fb06d7b178721c57
+      internalID: -3121058935076261588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_80
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afca2ce60d1f5ef4eb888f7053660780
+      internalID: -6055925667598320937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_81
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83157087ccab3474ba4894034f0aa026
+      internalID: -43932818354559917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_82
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba828025db636f8428f300f8ea049767
+      internalID: -8629165431823232541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_83
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fb78768f11ddb4e9e523f420b80986
+      internalID: -7675778786123336906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_84
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc2cbb5b8a81664e8ec82cea6d65df3
+      internalID: 7117980585300730260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_85
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491488750b38ee242964183e19c51840
+      internalID: -1490245940206717386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_86
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd08bf8794b6ec545bec56df45d81f1a
+      internalID: -5230130252955948770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_87
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e0ef9cf589a2244a080b3a651a60d1
+      internalID: -5443029963356593656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_88
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f965edc3e92a9042b10fb374fab0e70
+      internalID: 6283555520381799275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_89
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326a0bb7491f9974d925bf0a5a14719f
+      internalID: 7490870019491147689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_90
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821e59e7f2778ab48b14a6349fdcbabf
+      internalID: -2498340386581536929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_91
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4822d23cdeefb9448a7a9634afc549a6
+      internalID: -2201933891434314205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_92
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edebd659d8ba5c7459533bc351470500
+      internalID: 5316792514165270078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_93
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aff7e041b619c349931955e8844252d
+      internalID: 1487953187665583336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_94
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138fc0de473d3b844bddd0b021e20074
+      internalID: -1339291155984451642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_95
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cf9749b27ec804e975eb86f574e919
+      internalID: 4300551885576003560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_96
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcab9a8287ecb040bd2ce2489f47b12
+      internalID: 3660627483605483946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_97
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0bf7e71afb5f34bb7214fe7789b3c1
+      internalID: -900073015850537270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_98
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e5fb2b3702fd640b68f3879ec2e899
+      internalID: 5833239905681280940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_99
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e00e890269aa441b1e1e4e8fd2366e
+      internalID: 6107154331998311771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_100
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ff750dabace834e9022cea25f0145d
+      internalID: -8544393689193820270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_101
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edcca87325c78c49af99dce9abb45fc
+      internalID: -4278793508640759396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_102
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75cbcf6400becd498c7db15872b870a
+      internalID: 3340247871982532704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_103
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c87852c37882144a852e01582079ae
+      internalID: -1917561648054055013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_104
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ac445aa0df8474fa35488911b03501
+      internalID: 1852038790291768471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_105
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8b31ef2d0bcfb4f8f3a779a4b62613
+      internalID: 7485633225928022540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_106
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498e2798232bcd14c97a4e14e138ee91
+      internalID: 2597044073891598927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_107
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7a4b558f20c1944801f334b11ea3a2
+      internalID: 4154992143015254601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_108
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7dca3a59375204c9cf028a1fe14b0d
+      internalID: -1533774790813998941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_109
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1027b5c0cf5c85647a5497fb11534db0
+      internalID: 2958660672703583837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_110
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033ac89928b80da4b8dace18400e38ef
+      internalID: -6175250435445505301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_111
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ddae99823a1ba44baeebc317c2afdb
+      internalID: -3263407751373491839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_112
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb3acd351c3ccd4ca5bbc4f0d27d9fd
+      internalID: -2075706486972181905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_113
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e10c2de315aad747840d7ff281e0b5c
+      internalID: 1990573352912674455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_114
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 183
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ac68a7adcb4f4469be1c4c06a9b961
+      internalID: -4166701268272361281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_115
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 183
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e01071aa4f36a6469cdef8466a9b0e9
+      internalID: -3837054715416345558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_116
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b013d00600288d041b9e7672412af2cc
+      internalID: -7780105418020788586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_117
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 183
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4788dae862d074f81c6dca236906f1
+      internalID: 6396775095449081612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_118
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 183
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0445c0c1af42eb84d9417f32576d2fb8
+      internalID: 1785788445402254518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_119
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee0fb28f4e73ef48bea93c78018302a
+      internalID: 1826266681546941436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_120
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9464692c20103f4f9c4f940f5e202ee
+      internalID: -3129463332310440422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_121
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 148
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1cc4f3096587543819e0364ec66686
+      internalID: -7655696506245963824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_122
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 148
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a10e3ba3ba5d704f9ff5e472dca7627
+      internalID: -2650176364249361665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_123
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 148
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506afa930e8ce094e87e30796c0c91df
+      internalID: -6531334146076587296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_124
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 148
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fe17e36d5e6c44998f09ae8a5cd33c
+      internalID: -1848763455833004056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_125
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 148
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb2dc1876891384999324368e476a0b
+      internalID: -1045168520301257310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_126
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 148
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5ba02e09b0a7c4085405ac2075a89f
+      internalID: -9000194432722166410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_127
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 148
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0a1c24bfdc281449bad3efc4b7d066
+      internalID: 6159831318880450463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_128
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 148
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158409fab01e80f4084d3b8b9f1b6bdc
+      internalID: -1643795601835929608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_129
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 148
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255283932b874f247afacfe2152a4ecf
+      internalID: 5832694701980758343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_130
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 148
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1e445039ef4784d9dc5d1f1a3ceca8
+      internalID: -8210780776075073226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_131
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 148
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedbdd9dc1b43304195808f098da33d1
+      internalID: 285252134020705515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_132
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 148
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec5b5cddf19d854685b667ef512a595
+      internalID: -1657341041790875021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_133
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 148
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f180ed1aa91bf4a9adc58c529fb383
+      internalID: -477533348610890572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_134
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 148
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec36712dbabb1a845ac09818528e2b69
+      internalID: -4336778868757457064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_135
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 148
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c144e7f9e4bb2ec4185bce83e548152b
+      internalID: -6853545418396667509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_136
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 148
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7ee4458650264419aed4cf064f4b29
+      internalID: -5124100221785495385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_137
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 148
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d75de2b788e1c43ab08cc8471e1bef
+      internalID: 103384192476444997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_138
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 148
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5e192d125d3ec4cbac570a56be003b
+      internalID: 5523648583534062692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_139
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 148
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d9be2b233356a49a5ddc2540ff3314
+      internalID: 6009806060730388250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_140
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 148
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dc6c0ae1d7a1b48b4ea271fb7696e9
+      internalID: -7999745483935917685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_141
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c0cd8d804ca7149a649af18ee3b57e
+      internalID: -178210211828481683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_142
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f784662f88fab174794714e36cbf38f9
+      internalID: -79747819998999604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_143
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c077736678f11894ba16609452db6e04
+      internalID: -6644683511013110367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_144
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d669034d4eeff48b11d1d3de029f93
+      internalID: -8423308713328973997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_145
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99970fda02e48c946867fea186617c81
+      internalID: -4308556283539522103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_146
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e85f09e7dcd89944a1b23337be471ba
+      internalID: -6444120821872601071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_147
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c147a7f428393478bbc4299ed23dcc
+      internalID: -355270485747301883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_148
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fdaee155d7a3d46aa0c2aa50aab2e5
+      internalID: -1303032165871399280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_149
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9b8b0c149866b4782b69bd13fbeff0
+      internalID: 4694469233004479123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_150
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4418caba2f8944a4da01b828bdc54942
+      internalID: -6791420242373638892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_151
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f1ec62d54efad4e927e156abf8ceb2
+      internalID: -2067618490009424747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_152
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97187c46f8ac838409af56ad240b522c
+      internalID: -3730221488220577093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_153
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899fb306b836bfd43873eab6c17b5d4a
+      internalID: -7697575089812957598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_154
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e875229a59b574496189a545809cde
+      internalID: 5017299089094543114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_155
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50cf576d041c524880c66c21319c940
+      internalID: 4918599391091460507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_156
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49339c84cd3884c488238d31085c8883
+      internalID: -7637592363966656784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_157
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521e98d9ea793ef40ba9c76aed614300
+      internalID: 1117802350213776221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_158
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ae4a645100c06408f2368f2dde3b77
+      internalID: 6178519078599774802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_159
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c695352481c9e954da54ff2e71aeb3e1
+      internalID: 6325408895822783505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_160
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f41adeddf566364b81fcf8ef61fd236
+      internalID: 7080639258647401015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_161
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 103
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135e19580d751da40b2e9a1fda9fbc44
+      internalID: -3030798626678332062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_162
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba942371424c8a4a839cf7db6ada2cf
+      internalID: -7414228686536057076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_163
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03db06933783e654980e19d67f3b0fde
+      internalID: 3173090106861579441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_164
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6002241f6380bd42af70908a7d67190
+      internalID: 4124496941046343450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_165
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 67
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5229fc7fe8709b54e8c4ef2791cdee26
+      internalID: -3472009717915097807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_166
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 67
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d38ec6298592134fbc6b6e4c713668f
+      internalID: 1361906055608192481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_167
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 67
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0e32594e1bb5c46bc4e0c3c36dfb22
+      internalID: -4781119432215362245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_168
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 67
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0957f8a29c875b4a91c72277a8d3b11
+      internalID: -8927734519562244404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_169
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 67
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4ab6db82dfb9643af9e545402a58b0
+      internalID: 7190584164532425683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_170
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 67
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328d26da71ab86d4182d7906ac119403
+      internalID: -2457354935012408365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_171
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 68
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72145fc557162248a7863694ed3fcf3
+      internalID: 4434023968943615479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_172
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 68
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e03066850265549949d3e796c42fe8
+      internalID: 8867464678315952458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_173
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 68
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25feca8146f905e49a7819cf9136d09d
+      internalID: -3506773774255110054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_174
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 68
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938039179e23fba4e8039e74da87d0d5
+      internalID: -1389509739179057713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_175
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 68
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a780febcb19af047bebb35640cad1de
+      internalID: 978643885118352984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_176
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 68
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e136714fe2910408659b730c190d5e
+      internalID: -5223626842862230330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_177
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 67
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a668b868cf37014f9bbb425247299fd
+      internalID: -7402726639221357406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_178
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 67
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fbc2d32cbe95b459c035ec97ef5731
+      internalID: 3176946243606140966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_179
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 67
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9732f6d108d72c04bbf2e5d194649d3c
+      internalID: 6109506776451494727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_180
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 67
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d41828a29aa56d47b885e7b0badbf64
+      internalID: 7867773163369774185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_181
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 67
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d93755acc5b42946bb8d8d21fccb238
+      internalID: -5099582831874841104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_182
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 67
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9311aefad00802843bfa0b44a533993e
+      internalID: 7358506519145958374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_183
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 68
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fe263b767649c448d4bdc6d4160322
+      internalID: 8081117756004927287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_184
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 68
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80eef82464dfd544bdc5f1cee9d6be6
+      internalID: -1244815796847595872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_185
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 68
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709b698396720084b8ef1d57e1d9b440
+      internalID: 2701517203146227727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_186
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 68
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f91ca9f6311174e9e814736773d807
+      internalID: -8669650161305168751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_187
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 68
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022fd242f6a26554cb1cbd0ce282cf50
+      internalID: 4235975805350372333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_188
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 68
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101d203b87f9fac4f9ea0b4b19f4c6f5
+      internalID: -7445554412677618304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_189
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 34
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462651aad0c5b2a4c9f624501591ec2f
+      internalID: -3055716176915278785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_190
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 34
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4688c7a83856b44a8b07e8ebf1d281
+      internalID: 8255561997524384194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_191
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 35
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1f57e220514124fa2bca1b010c2a59
+      internalID: 4914675141716354922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_192
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 36
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c360fb6db09534cb9ef91ee6cefca2
+      internalID: 1637216478145709646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_193
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 36
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f569ebe282c314a8442272648a4d42
+      internalID: -1219898488538265959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_194
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780e5d5786b4d0146a7e88e40966ec53
+      internalID: -2788217440504051535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_195
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 34
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5263e3df3b8bd740854454afc2c86e9
+      internalID: 8127685730371210394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_196
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 34
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a4c9ce0cb507245b162b857da23703
+      internalID: 855885565931505593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_197
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 35
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e0c89ce34a6704abca20ab158251ec
+      internalID: 6874070500658388430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_198
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 36
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be4531a16367c34ea9635a054e876fa
+      internalID: -3173256175972693508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_199
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 36
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83704dc701894b94eab4c9040ac35f4e
+      internalID: -7042335151487487800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_200
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 34
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d37fd42f73c5e648a57aaafc1374e49
+      internalID: -8891902215813121733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_201
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 34
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edb90502f1ffdb4c8bf5d6919f1f1be
+      internalID: 4345988591686983047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_202
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 34
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110fa8c33e6c90e489be2b643c059b44
+      internalID: -4693378569934837578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_203
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 35
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5af6cbe8b1154c4780bef7e9a0913ac
+      internalID: -2047383871906490491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_204
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 36
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f08f81a2dd5cd94eb9e2d438157cdd4
+      internalID: 4962322122920141561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_205
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 36
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79dcfc81474ad84f8de48d7cc4dcca2
+      internalID: 4274286133248890043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_206
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 34
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f569b86cf221e4bb6179d35f7cb225
+      internalID: -8605119812218458720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_207
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 34
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da8c8598facdf446acbd62103b11d67
+      internalID: -4753384940545334817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_208
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 34
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694fa0a87160b814fb26751e254f2bd5
+      internalID: 830324390215331209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_209
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 35
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed708eff0f6375249be5e230e2651ab8
+      internalID: -6095575729278581592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_210
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 36
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ef581630938f04d9ff2d7f37e8fb8c
+      internalID: 5131721284050506489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_211
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 36
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e4308970b7f0a419f2c2b6937bbb17
+      internalID: 6276820744940437744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_212
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 34
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36ca13c0556d144bb710acd5e758424
+      internalID: -4204589200950661685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_213
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17ed11d7f6915c42865c13ee11dc065
+      internalID: -1054807200163216015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_214
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad643daf6098ab439e652dd43d721d5
+      internalID: -7632702328024060822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_215
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb1b054f510a9740af45557cf8295ef
+      internalID: 3422661717206214837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_216
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027d29c8d6945164fbf1aa00624558bd
+      internalID: 8194198321001281932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_217
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d082bb3f736acb649b8b56fbeeb4896d
+      internalID: -4018917554978506147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_218
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfafc722f1f7554e844236afa926a10
+      internalID: -8426341203910942857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_219
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05613811f04f92042897879fac889ca7
+      internalID: 2167560480242797720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_220
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4132d3f1f81dbb24ba14e47ab6f1d90c
+      internalID: 7716142401026171757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_221
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16dacb83ddc23943b8844a43a55d1a4
+      internalID: 4338107135503442703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_222
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46a01ac018c84c4ea72c4a08539d58f
+      internalID: -5774150088102658855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_223
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccf8a16a1f2b0d4a91a6d5c1bb47f6c
+      internalID: -4861829896365036367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_224
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2928e0e109bf1c4b8df9d79311ae658
+      internalID: -3302037637609596137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_225
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd43a2bf77227fc4695d88207aa9057e
+      internalID: -6752215341794914667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_226
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452de1426ee988c478de367e75e93501
+      internalID: -4521414967990150393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_227
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658ae8beea1d9aa4db01f190e07ddc38
+      internalID: -3248906195189321692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_228
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c476bd2eda1b8440bf029ba0405470f
+      internalID: -7159188367293696605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_229
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 3
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3f0a30510b12c4b8a296ef3fc5a0b4
+      internalID: 1694844698008948087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_230
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5477c3151a769f64c9bd1361eab66bbd
+      internalID: -2723561126077750220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_231
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a1771f5484ddd49bf45e0589b6c7db
+      internalID: -3438341371890058989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_232
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cca281f50ea96409807657bd438e65
+      internalID: -6271258053886180489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_233
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e844c00b5dd143488ba9df30234fe84
+      internalID: -8526525476967390878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_234
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 2
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31387d0829e6bd47b01d86f098b1745
+      internalID: 8213885979991796610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_235
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015fa5855740d34448b4d75aaff31aa1
+      internalID: 3640895349915966948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stranded - Astronaut (1)_236
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c8ccb36b7352548ae48e766b2e49b9
+      internalID: -1629336812634592787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
