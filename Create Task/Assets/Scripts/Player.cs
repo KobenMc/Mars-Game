@@ -12,13 +12,14 @@ public class Player : MonoBehaviour
     void Start()
     {
         mySr = GetComponent<SpriteRenderer>();
+        myAnim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
         walking();
-
+        jumping();
     }
 
     void walking()
@@ -28,7 +29,22 @@ public class Player : MonoBehaviour
         player.transform.Translate(h * Time.deltaTime, 0, 0);
         if(h > 0)
         {
-            myAnim 
+            myAnim.SetInteger("player", 2);
+            mySr.flipX = false;
         }
+        if(h < 0)
+        {
+
+            myAnim.SetInteger("player", 2);
+            mySr.flipX = true;
+        }
+        if(h == 0)
+        {
+            myAnim.SetInteger("player", 1);
+        }
+    }
+    void jumping()
+    {
+
     }
 }
