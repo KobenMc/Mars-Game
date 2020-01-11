@@ -4,12 +4,14 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public GameObject Character;
+    SpriteRenderer mySr;
+    Animator myAnim;
+    public GameObject player;
     public float Speed = 5f;
     // Start is called before the first frame update
     void Start()
     {
-        
+        mySr = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
@@ -23,6 +25,10 @@ public class Player : MonoBehaviour
     {
         float h = Input.GetAxis("Horizontal") * Speed;
 
-        Character.transform.Translate(h * Time.deltaTime, 0, 0);
+        player.transform.Translate(h * Time.deltaTime, 0, 0);
+        if(h > 0)
+        {
+            myAnim 
+        }
     }
 }
