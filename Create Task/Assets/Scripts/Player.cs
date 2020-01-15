@@ -10,10 +10,9 @@ public class Player : MonoBehaviour
     Rigidbody2D myRb;
     public GameObject player;
     public float Speed = 5.0f;
-    public Vector2 jumpHeight;
-    public float jump;
-    private bool isJumping = false;
+    public float jumpHeight;
     float h;
+    float jump;
     // Start is called before the first frame update
     void Start()
     {
@@ -52,19 +51,10 @@ public class Player : MonoBehaviour
     }
     void jumping()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && !isJumping)
-        {
-            myRb.AddForce(Vector2.up * jumpHeight);
-            isJumping = true;
 
-        }
     }
     private void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.tag == "ground")
-        {
-            isJumping = false;
-        }
         if (col.gameObject.tag == "thorns")
         {
             SceneManager.LoadScene("Death");
