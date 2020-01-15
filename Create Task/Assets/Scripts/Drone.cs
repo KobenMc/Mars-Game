@@ -11,6 +11,7 @@ public class Drone : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //Find player
         target = GameObject.FindGameObjectWithTag("player").GetComponent<Transform>();
     }
 
@@ -22,6 +23,7 @@ public class Drone : MonoBehaviour
 
     void Movement()
     {
+        //Go to player only on x axis
         transform.position = Vector2.MoveTowards(transform.position, new Vector2(target.position.x, transform.position.y), speed * Time.deltaTime);
     }
 }

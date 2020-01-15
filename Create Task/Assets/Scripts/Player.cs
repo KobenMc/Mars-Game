@@ -27,12 +27,12 @@ public class Player : MonoBehaviour
         walking();
         jumping();
     }
-
+    //walking mechanic
     void walking()
     {
         h = Input.GetAxis("Horizontal") * Speed;
-
         player.transform.Translate(h * Time.deltaTime, 0, 0);
+        //Triggering walking animations
         if(h > 0)
         {
             myAnim.SetInteger("player", 2);
@@ -49,16 +49,19 @@ public class Player : MonoBehaviour
             myAnim.SetInteger("player", 1);
         }
     }
+    //jumping mechanic
     void jumping()
     {
 
     }
     private void OnCollisionEnter2D(Collision2D col)
     {
+        //Death by thorns
         if (col.gameObject.tag == "thorns")
         {
             SceneManager.LoadScene("Death");
         }
+        //collision with drone to cause damage to player
         if (col.gameObject.tag == "drone")
         {
 
