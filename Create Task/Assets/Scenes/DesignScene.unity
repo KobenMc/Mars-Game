@@ -1363,7 +1363,7 @@ GameObject:
   - component: {fileID: 558114127}
   - component: {fileID: 558114129}
   m_Layer: 0
-  m_Name: Drone
+  m_Name: drone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1490,7 +1490,7 @@ Animator:
   m_GameObject: {fileID: 558114124}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 2f70f19580b80dc48844c02f6cc9f19f, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
