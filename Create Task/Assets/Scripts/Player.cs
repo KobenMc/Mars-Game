@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -8,10 +9,11 @@ public class Player : MonoBehaviour
     Animator myAnim;
     Rigidbody2D myRb;
     public GameObject player;
-    public float Speed = 5f;
+    public float Speed = 5.0f;
     public Vector2 jumpHeight;
     public float jump;
     private bool isJumping = false;
+    float h;
     // Start is called before the first frame update
     void Start()
     {
@@ -29,7 +31,7 @@ public class Player : MonoBehaviour
 
     void walking()
     {
-        float h = Input.GetAxis("Horizontal") * Speed;
+        h = Input.GetAxis("Horizontal") * Speed;
 
         player.transform.Translate(h * Time.deltaTime, 0, 0);
         if(h > 0)
@@ -63,6 +65,13 @@ public class Player : MonoBehaviour
         {
             isJumping = false;
         }
-    }
+        if (col.gameObject.tag == "thorns")
+        {
+            SceneManager.LoadScene("Death");
+        }
+        if (col.gameObject.tag == "drone")
+        {
 
+        }
+    }
 }
