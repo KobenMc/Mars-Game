@@ -13,6 +13,8 @@ public class Drone : MonoBehaviour
     void Start()
     {
         //Find player
+        mySr = GetComponent<SpriteRenderer>();
+        myAnim = GetComponent<Animator>();
         target = GameObject.FindGameObjectWithTag("player").GetComponent<Transform>();
     }
 
@@ -29,6 +31,7 @@ public class Drone : MonoBehaviour
         if (dist < 10)
         {
             transform.position = Vector2.MoveTowards(transform.position, new Vector2(target.position.x, transform.position.y), speed * Time.deltaTime);
+            myAnim.SetInteger("drone", 2);
         }
     }
 }

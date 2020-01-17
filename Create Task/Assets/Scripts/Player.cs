@@ -90,5 +90,9 @@ public class Player : MonoBehaviour
             jump = false;
             myAnim.SetBool("Grounded", true);
         }
+        if(col.gameObject.tag == "toolbox")
+        {
+            SceneManager.LoadScene("WinScreen");
+        }
     }
 }
