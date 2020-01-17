@@ -1592,7 +1592,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 558114124}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.13, y: -3.08, z: 0}
+  m_LocalPosition: {x: -6.13, y: -3.19, z: 0}
   m_LocalScale: {x: 1, y: 0.96251, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2692,8 +2692,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 885773053}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 14.968, y: 7.412, z: 0}
-  m_LocalScale: {x: 10.872712, y: 7.815936, z: 1}
+  m_LocalPosition: {x: 14.968, y: 7.663, z: 0}
+  m_LocalScale: {x: 10.872712, y: 7.6674333, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -4187,7 +4187,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1626854559}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.74, y: -0.52, z: 0}
+  m_LocalPosition: {x: -15.05, y: -3.01, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -4226,7 +4226,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 1626854559}
   Speed: 5
-  jumpHeight: 0
+  jumpHeight: {x: 0, y: 7}
 --- !u!61 &1626854564
 BoxCollider2D:
   m_ObjectHideFlags: 0
