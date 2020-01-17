@@ -10,9 +10,10 @@ public class Player : MonoBehaviour
     Rigidbody2D myRb;
     public GameObject player;
     public float Speed = 5.0f;
-    public float jumpHeight;
+    public Vector2 jumpHeight;
     float h;
-    float jump;
+    bool jump;
+    int health = 100;
     // Start is called before the first frame update
     void Start()
     {
@@ -26,6 +27,7 @@ public class Player : MonoBehaviour
     {
         walking();
         jumping();
+        Death();
     }
     //walking mechanic
     void walking()
@@ -52,7 +54,24 @@ public class Player : MonoBehaviour
     //jumping mechanic
     void jumping()
     {
+        if (jump == false)
+        {
+            if (Input.GetAxis("Jump") > 0)
+            {
 
+                myAnim.SetBool("Grounded", false);
+                GetComponent<Rigidbody2D>().AddForce(jumpHeight, ForceMode2D.Impulse);
+                jump = true;
+            }
+        }
+    }
+
+    void Death()
+    {
+        if (health <= 0)
+        {
+            SceneManager.LoadScene("Death");
+        }
     }
     private void OnCollisionEnter2D(Collision2D col)
     {
@@ -64,7 +83,12 @@ public class Player : MonoBehaviour
         //collision with drone to cause damage to player
         if (col.gameObject.tag == "drone")
         {
-
+            health -= 25;
+        }
+        if (col.gameObject.tag == "ground")
+        {
+            jump = false;
+            myAnim.SetBool("Grounded", true);
         }
     }
 }

@@ -26,6 +26,6 @@ public class Drone : MonoBehaviour
     {
         //Go to player only on x axis
         transform.position = Vector2.MoveTowards(transform.position, new Vector2(target.position.x, transform.position.y), speed * Time.deltaTime);
-
+        
     }
 }
