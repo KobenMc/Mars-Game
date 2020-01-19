@@ -73,6 +73,7 @@ public class Player : MonoBehaviour
             SceneManager.LoadScene("Death");
         }
     }
+
     private void OnCollisionEnter2D(Collision2D col)
     {
         //Death by thorns
