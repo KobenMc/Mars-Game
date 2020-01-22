@@ -17,12 +17,19 @@ public class SwordAttack : MonoBehaviour
         Attack();
     }
 
+    IEnumerator Disapear()
+    {
+        yield return new WaitForSeconds(0.5f);
+        sword.SetActive(false);
+    }
+
     void Attack()
     {
-        if (Input.GetKey("space"))
+        
+        if (Input.GetKeyDown(KeyCode.Space))
         {
             sword.SetActive(true);
-
+            StartCoroutine(Disapear());
         }
     }
 }

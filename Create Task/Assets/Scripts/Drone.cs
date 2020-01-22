@@ -15,10 +15,11 @@ public class Drone : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //Find player
+       
         mySr = GetComponent<SpriteRenderer>();
         myAnim = GetComponent<Animator>();
         myRb = GetComponent<Rigidbody2D>();
+        //Find player
         target = GameObject.FindGameObjectWithTag("player").GetComponent<Transform>();
     }
 
@@ -33,6 +34,7 @@ public class Drone : MonoBehaviour
     {
         //Go to player only on x axis
         float dist = Vector3.Distance(target.transform.position, transform.position);
+        //Find if player is 10 blocks away and drone isn't dead
         if (dist < 10)
         {
             transform.position = Vector2.MoveTowards(transform.position, new Vector2(target.position.x, transform.position.y), speed * Time.deltaTime);
